@@ -29,6 +29,7 @@ h1{
 
 .container,.game-display, #result{
     flex-direction: column;
+    text-align: center;
 } 
 .box{
     height: 100px;
